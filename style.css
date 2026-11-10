@@ -1,0 +1,9 @@
+img {
+    width: 500px;
+}
+body {
+    text-align: center;
+    font-family: 'comic sans MS';
+    background: rgba(117, 14, 235, 0.199);
+    color: rgb(56, 2, 117);
+}
